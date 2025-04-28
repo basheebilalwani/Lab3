@@ -1,4 +1,5 @@
 function store(){
+    alert("Successfully submitted");
     const student = {
         name : document.getElementById('name').value,
         roll: document.getElementById('roll').value,
